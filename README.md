@@ -2,6 +2,7 @@
 Particle generation using grid element method
 采用网格单元法生成颗粒，基本原理与EDEM生成颗粒检测算法相同。
 注意：程序中xyz取值应大于等于0
+元胞数据类型：x,y,z,r
 
 step1:设定方盒子范围、颗粒半径列表等参数
 step2:设定网格单元法网格大小meshsize
